@@ -1,4 +1,4 @@
-### Hello welcome to my profile. 👋
+### Hi, There. 👋
 
 - 🔭 I’m currently working on Python Automation
 - 👯 I’m looking forward to these next few years, and see where it goes.

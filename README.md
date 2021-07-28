@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello welcome to my profile. 👋
 
-<!--
-**AJsenpai/AJsenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python Automation
+- 👯 I’m looking forward to these next few years, and see where it goes.
+- 💬 Ask me about anything, and im here to help out or talk to.
 
-Here are some ideas to get you started:
+## ⚡ Fun fact: I love Astronomy and Books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Profile Stats</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername" alt="yourusername" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="yourusername" /></p>
+
+## <h3 align="center">SOCIAL'S / CONNECTIONS</h3>
+
+- 📫 You can contact me though...

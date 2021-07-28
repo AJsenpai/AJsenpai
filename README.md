@@ -4,7 +4,7 @@
 - 👯 I’m looking forward to these next few years, and see where it goes.
 - 💬 Ask me about anything, and im here to help out or talk to.
 
-## ⚡ Fun fact: I love Astronomy and Books.
+#### ⚡ Fun fact: I love Astronomy and Non-Fictional Books.
 
 <h3 align="center">Profile Stats</h3>
 

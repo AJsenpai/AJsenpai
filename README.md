@@ -5,7 +5,7 @@
 - 💬 Ask me about anything, and im here to help out or talk to.
 
 #### ⚡ Fun fact 1.: I love Astronomy and Non-Fictional Books.
-#### ⚡ Fun fact 2.: I Love watching Anime, this username was inspired by Naruto :p.
+#### ⚡ Fun fact 2.: I Love watching Anime, my username was inspired by Naruto :p.
 
 <h3 align="center">Profile Stats</h3>
 

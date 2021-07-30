@@ -4,8 +4,8 @@
 - 👯 I’m looking forward to these next few years, and see where it goes.
 - 💬 Ask me about anything, and im here to help out or talk to.
 
-#### ⚡ Fun fact 1.: I love Astronomy and Non-Fictional Books.
-#### ⚡ Fun fact 2.: I Love watching Anime, my username was inspired by Naruto :p.
+#### ⚡ Fun fact 1.: my username was inspired by Naruto. If you know, you know :p.
+#### ⚡ Fun fact 2.: I am a book worm, and very much into fitness and nutrition.
 
 <h3 align="center">Profile Stats</h3>
 

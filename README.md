@@ -1,11 +1,9 @@
 ### Hi, There. 👋
 
-- 🔭 I’m currently working on Python Automation
-- 👯 I’m looking forward to these next few years, and see where it goes.
-- 💬 Ask me about anything, and im here to help out or talk to.
+- i'm passionate about python language and problem solving
+- skills: data structures & algorithms, Automation, server apps migration
 
-#### ⚡ Fun fact 1.: my username was inspired by Naruto. If you know, you know :p.
-#### ⚡ Fun fact 2.: I am a book worm, and very much into fitness and nutrition.
+#### ⚡ Fun fact .: I am a book worm, and my favourite subject is nutrition, astrology, psychology.
 
 <h3 align="center">Profile Stats</h3>
 

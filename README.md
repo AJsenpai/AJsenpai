@@ -3,7 +3,7 @@
 - i'm passionate about python language and problem solving
 - skills: data structures & algorithms, Automation, server apps migration, data analytics.
 
-#### ⚡ Fun fact : I am a book worm, and my favourite subjects are nutrition, astrology, psychology.
+#### ⚡ Fun fact : I am a book worm, and my favourite subjects are nutrition, astronomy, psychology.
 
 <h3 align="center">Profile Stats</h3>
 

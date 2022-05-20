@@ -1,7 +1,7 @@
 ### Hi, There. 👋
 
 - i'm passionate about python language and problem solving
-- skills: data structures & algorithms, Automation, server apps migration, data visulization.
+- skills: data structures & algorithms, Automation, server apps migration, data visualization.
 
 #### ⚡ Fun fact : I am a book worm, and my favourite subjects are nutrition, astronomy, psychology.
 
